@@ -1,69 +1,35 @@
-👨‍💻 Theodoro Ternus
+# Olá, eu sou o Theodoro! 👋
 
-Olá! Me chamo Theodoro, tenho 17 anos e atualmente estudo Desenvolvimento de Software.
+### 👨‍💻 Estudante de Desenvolvimento de Sistemas
 
-Tenho foco em:
+Atualmente estou cursando **Desenvolvimento de Sistemas**, onde venho aprimorando minhas habilidades em lógica de programação e estruturação de projetos web. Sou apaixonado por transformar ideias em código e estou em busca constante de evolução técnica.
 
-lógica de programação;
-C++;
-MySQL;
-desenvolvimento back-end;
-estruturação de banco de dados.
+---
 
-Busco evoluir diariamente através de projetos práticos, exercícios e estudos constantes.
+### 🚀 Minhas Habilidades
 
-🚀 Tecnologias que estou estudando
-C++
-MySQL
-Git & GitHub
-HTML
-Banco de Dados
-Procedures SQL
-Estrutura de Dados
-📚 Atualmente estudando
-JOINs e consultas SQL
-Procedures no MySQL
-Versionamento com Git
-Organização de projetos
-Estruturas em C++
-Desenvolvimento de sistemas simples
-🛠️ Projetos
-Sistema de Produtos em C++
+**Web Development:**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-Sistema de cadastro de produtos utilizando:
+**Ferramentas e Aprendizado:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-structs;
-vetores;
-menus interativos;
-manipulação de dados.
-Estudos de Banco de Dados
+---
 
-Criação de:
+### 📚 No que estou focando agora:
+- ⚡ Aprofundando em **CSS (Flexbox e Grid)** para layouts responsivos.
+- 🧠 Iniciando estudos em **JavaScript** para dar vida às páginas.
+- 📂 Organizando meus primeiros projetos de curso aqui no GitHub.
 
-procedures;
-consultas SQL;
-controle de estoque;
-relacionamentos entre tabelas.
-📈 Objetivos
-Conseguir estágio na área de desenvolvimento;
-Melhorar minhas habilidades em back-end;
-Aprender desenvolvimento web;
-Criar projetos cada vez mais profissionais.
-📫 Contato
-GitHub: coloque seu link
-LinkedIn: (recomendo criar)
-Email: seu email profissional
+---
 
-Também recomendo adicionar:
+### 📫 Como me encontrar:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
-🔥 Diferenciais
+---
 
-Porque isso ajuda recrutador a bater o olho rápido.
-
-Exemplo:
-
-Aprendizado rápido;
-Facilidade com lógica;
-Interesse em back-end;
-Constância nos estudos;
-Projetos próprios.
+### 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
