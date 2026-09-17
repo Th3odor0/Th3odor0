@@ -29,7 +29,6 @@ Atualmente estou cursando **Desenvolvimento de Sistemas**, focado em desenvolvim
 ### 🛠️ Projetos em Destaque
 
 - 🔧 **Sistema de Assistência Técnica** — Aplicação desktop em Python (Tkinter) para gestão de uma oficina de assistência técnica, com banco de dados MySQL modelado do zero, arquitetura MVC e padrão DAO. Envolve entidades como Cliente, Funcionário, Equipamento, Peça e Ordem de Serviço.
-- 🎮 **Gerenciador de Biblioteca Pokémon** — Aplicação web local em Python + Flask + MySQL para organizar e executar arquivos ROM, com sistema de migrações de banco de dados e leitura de save files da Geração 3.
 
 ---
 
